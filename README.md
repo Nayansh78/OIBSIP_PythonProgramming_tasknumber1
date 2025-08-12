@@ -22,6 +22,7 @@ It uses Python libraries for *speech-to-text* and *text-to-speech*, making it a 
 - Exit command to stop the program
 
 ---
+1.Clone this repository https://github.com/Nayansh78/OIBSIP_PythonProgramming_tasknumber1
 2. Install Python
 Download and install Python from python.org.
 Ensure "Add Python to PATH" is selected during installation.
