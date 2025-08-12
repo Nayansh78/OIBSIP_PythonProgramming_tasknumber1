@@ -38,3 +38,5 @@ Tech Stack:
 -pyttsx3 – Text-to-speech conversion
 -PyAudio – Microphone input
 -Webbrowser – Web search & site launching
+
+**Author: Nayan Sharma GitHub: Nayansh78**
